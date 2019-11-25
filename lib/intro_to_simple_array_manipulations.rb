@@ -45,3 +45,7 @@ colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
    haircuts.uniq "Bob"
  end 
    
+   def 
+      famous_robots = ["Johnny 5", "R2D2", "Robocop"]
+    famous_robots.delete_at ("Johnny 5", "R2D2")
+  end 
